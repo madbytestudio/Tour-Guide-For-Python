@@ -65,6 +65,7 @@ python 01_hello.py
 | 26 | [`Bab26`](Bab26/) | Inheritance, polymorphism dan encapsulation | Siap |
 | 27 | [`Bab27`](Bab27/) | Inner classes dan refactor projek | Siap |
 | 28 | [`Bab28`](Bab28/) | File handling dan CSV | Siap |
+| 29 | [`Bab29`](Bab29/) | Try/except dan custom exceptions | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -346,6 +347,15 @@ python 01_hello.py
 │   ├── 09_projek_v28.py
 │   ├── data_contoh.txt
 │   ├── pelajar.csv
+│   └── README.md
+├── Bab29/
+│   ├── 01_try_except.py
+│   ├── 02_multiple_except.py
+│   ├── 03_else_finally.py
+│   ├── 04_raise.py
+│   ├── 05_custom_exception.py
+│   ├── 06_apa_output.py
+│   ├── 07_projek_v29.py
 │   └── README.md
 ├── projek/
 │   └── README.md
