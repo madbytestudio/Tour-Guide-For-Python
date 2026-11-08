@@ -55,6 +55,7 @@ python 01_hello.py
 | 16 | [`Bab16`](Bab16/) | For loops | Siap |
 | 17 | [`Bab17`](Bab17/) | Functions dan arguments | Siap |
 | 18 | [`Bab18`](Bab18/) | args, kwargs, scope dan lambda | Siap |
+| 19 | [`Bab19`](Bab19/) | Recursion, generators dan decorators | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -246,6 +247,15 @@ python 01_hello.py
 │   ├── 06_lambda.py
 │   ├── 07_apa_output.py
 │   ├── 08_projek_v18.py
+│   └── README.md
+├── Bab19/
+│   ├── 01_recursion.py
+│   ├── 02_recursion_ralat.py   # sengaja salah — RecursionError
+│   ├── 03_generator.py
+│   ├── 04_generator_expr.py
+│   ├── 05_decorator.py
+│   ├── 06_apa_output.py
+│   ├── 07_projek_v19.py
 │   └── README.md
 ├── projek/
 │   └── README.md
