@@ -73,6 +73,7 @@ python 01_hello.py
 | 34 | [`Bab34`](Bab34/) | MongoDB dengan Python | Siap |
 | 35 | [`Bab35`](Bab35/) | Python DSA | Siap |
 | 36 | [`Bab36`](Bab36/) | Machine learning | Siap |
+| 37 | [`Bab37`](Bab37/) | Capstone: spesifikasi dan data model | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -425,6 +426,12 @@ python 01_hello.py
 │   ├── 05_decision_tree.py
 │   ├── 06_apa_output.py
 │   ├── 07_projek_v36.py
+│   └── README.md
+├── Bab37/
+│   ├── 01_model.py
+│   ├── 02_validation.py
+│   ├── 03_apa_output.py
+│   ├── 04_projek_v37.py
 │   └── README.md
 ├── projek/
 │   └── README.md
