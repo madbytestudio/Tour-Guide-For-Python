@@ -67,6 +67,7 @@ python 01_hello.py
 | 28 | [`Bab28`](Bab28/) | File handling dan CSV | Siap |
 | 29 | [`Bab29`](Bab29/) | Try/except dan custom exceptions | Siap |
 | 30 | [`Bab30`](Bab30/) | Debugging dan testing | Siap |
+| 31 | [`Bab31`](Bab31/) | Matplotlib dan visualisasi data | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -365,6 +366,15 @@ python 01_hello.py
 │   ├── 04_bug.py             # sengaja salah — AssertionError
 │   ├── 05_apa_output.py
 │   ├── 06_projek_v30.py
+│   └── README.md
+├── Bab31/
+│   ├── 01_line.py
+│   ├── 02_bar.py
+│   ├── 03_pie.py
+│   ├── 04_hist.py
+│   ├── 05_subplot.py
+│   ├── 06_apa_output.py
+│   ├── 07_projek_v31.py
 │   └── README.md
 ├── projek/
 │   └── README.md

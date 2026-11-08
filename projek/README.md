@@ -36,6 +36,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 28 | Simpan dan baca data pelajar melalui CSV | Siap (contoh: `Bab28/09_projek_v28.py`) |
 | 29 | Validasi markah dengan custom exception | Siap (contoh: `Bab29/07_projek_v29.py`) |
 | 30 | Test purata dan gred | Siap (contoh: `Bab30/06_projek_v30.py`) |
+| 31 | Carta bar dan pai daripada data pelajar | Siap (contoh: `Bab31/07_projek_v31.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.
