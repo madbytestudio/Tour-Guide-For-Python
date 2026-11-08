@@ -57,6 +57,7 @@ python 01_hello.py
 | 18 | [`Bab18`](Bab18/) | args, kwargs, scope dan lambda | Siap |
 | 19 | [`Bab19`](Bab19/) | Recursion, generators dan decorators | Siap |
 | 20 | [`Bab20`](Bab20/) | Modules, PIP dan virtual environment | Siap |
+| 21 | [`Bab21`](Bab21/) | Dates dan math | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -267,6 +268,14 @@ python 01_hello.py
 │   ├── 05_venv.py
 │   ├── _projek_modul.py
 │   ├── 06_projek_v20.py
+│   └── README.md
+├── Bab21/
+│   ├── 01_datetime.py
+│   ├── 02_timedelta.py
+│   ├── 03_math.py
+│   ├── 04_round.py
+│   ├── 05_apa_output.py
+│   ├── 06_projek_v21.py
 │   └── README.md
 ├── projek/
 │   └── README.md

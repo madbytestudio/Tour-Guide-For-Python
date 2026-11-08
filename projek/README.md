@@ -26,6 +26,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 18 | Profil fleksibel dengan args/kwargs | Siap (contoh: `Bab18/08_projek_v18.py`) |
 | 19 | Log decorator dan laporan generator | Siap (contoh: `Bab19/07_projek_v19.py`) |
 | 20 | Modul analisis berasingan | Siap (contoh: `Bab20/_projek_modul.py`, `Bab20/06_projek_v20.py`) |
+| 21 | Laporan bertarikh dan pembundaran | Siap (contoh: `Bab21/06_projek_v21.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.
