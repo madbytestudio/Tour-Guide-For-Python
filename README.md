@@ -52,6 +52,7 @@ python 01_hello.py
 | 13 | [`Bab13`](Bab13/) | If, elif dan else | Siap |
 | 14 | [`Bab14`](Bab14/) | Match | Siap |
 | 15 | [`Bab15`](Bab15/) | While loops | Siap |
+| 16 | [`Bab16`](Bab16/) | For loops | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -214,6 +215,15 @@ python 01_hello.py
 │   ├── 05_input_loop.py
 │   ├── 06_apa_output.py
 │   ├── 07_projek_v15.py
+│   └── README.md
+├── Bab16/
+│   ├── 01_for_list.py
+│   ├── 02_range.py
+│   ├── 03_break_continue.py
+│   ├── 04_else.py
+│   ├── 05_nested.py
+│   ├── 06_apa_output.py
+│   ├── 07_projek_v16.py
 │   └── README.md
 ├── projek/
 │   └── README.md
