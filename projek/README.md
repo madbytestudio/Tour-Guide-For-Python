@@ -30,6 +30,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 22 | JSON pelajar dan validasi kod kursus | Siap (contoh: `Bab22/06_projek_v22.py`) |
 | 23 | Pelajar sebagai object | Siap (contoh: `Bab23/07_projek_v23.py`) |
 | 24 | Class Pelajar dengan constructor dan method | Siap (contoh: `Bab24/07_projek_v24.py`) |
+| 25 | Koleksi pelajar dengan magic methods | Siap (contoh: `Bab25/07_projek_v25.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.

@@ -61,6 +61,7 @@ python 01_hello.py
 | 22 | [`Bab22`](Bab22/) | JSON dan regex | Siap |
 | 23 | [`Bab23`](Bab23/) | OOP dan classes/objects | Siap |
 | 24 | [`Bab24`](Bab24/) | init, self, properties dan methods | Siap |
+| 25 | [`Bab25`](Bab25/) | Class methods dan magic methods | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -305,6 +306,15 @@ python 01_hello.py
 │   ├── 05_default.py
 │   ├── 06_apa_output.py
 │   ├── 07_projek_v24.py
+│   └── README.md
+├── Bab25/
+│   ├── 01_class_method.py
+│   ├── 02_static_method.py
+│   ├── 03_str.py
+│   ├── 04_repr_eq.py
+│   ├── 05_len_add.py
+│   ├── 06_apa_output.py
+│   ├── 07_projek_v25.py
 │   └── README.md
 ├── projek/
 │   └── README.md
