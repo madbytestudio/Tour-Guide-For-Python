@@ -70,6 +70,7 @@ python 01_hello.py
 | 31 | [`Bab31`](Bab31/) | Matplotlib dan visualisasi data | Siap |
 | 32 | [`Bab32`](Bab32/) | NumPy dan Pandas | Siap |
 | 33 | [`Bab33`](Bab33/) | MySQL dengan Python | Siap |
+| 34 | [`Bab34`](Bab34/) | MongoDB dengan Python | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -395,6 +396,15 @@ python 01_hello.py
 │   ├── 05_update_delete.py
 │   ├── 06_apa_output.py
 │   ├── 07_projek_v33.py
+│   └── README.md
+├── Bab34/
+│   ├── 01_connect.py
+│   ├── 02_insert.py
+│   ├── 03_find.py
+│   ├── 04_query.py
+│   ├── 05_update_delete.py
+│   ├── 06_apa_output.py
+│   ├── 07_projek_v34.py
 │   └── README.md
 ├── projek/
 │   └── README.md
