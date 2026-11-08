@@ -40,6 +40,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 32 | Analisis DataFrame mengikut kursus | Siap (contoh: `Bab32/06_projek_v32.py`) |
 | 33 | Simpan pelajar dalam MySQL dan CRUD | Siap (contoh: `Bab33/07_projek_v33.py`) |
 | 34 | Simpan pelajar dalam MongoDB dan CRUD | Siap (contoh: `Bab34/07_projek_v34.py`) |
+| 35 | Carian binari dan peringkat pelajar | Siap (contoh: `Bab35/07_projek_v35.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.

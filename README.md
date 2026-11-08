@@ -71,6 +71,7 @@ python 01_hello.py
 | 32 | [`Bab32`](Bab32/) | NumPy dan Pandas | Siap |
 | 33 | [`Bab33`](Bab33/) | MySQL dengan Python | Siap |
 | 34 | [`Bab34`](Bab34/) | MongoDB dengan Python | Siap |
+| 35 | [`Bab35`](Bab35/) | Python DSA | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -405,6 +406,15 @@ python 01_hello.py
 │   ├── 05_update_delete.py
 │   ├── 06_apa_output.py
 │   ├── 07_projek_v34.py
+│   └── README.md
+├── Bab35/
+│   ├── 01_stack.py
+│   ├── 02_queue.py
+│   ├── 03_linked_list.py
+│   ├── 04_binary_search.py
+│   ├── 05_sorting.py
+│   ├── 06_apa_output.py
+│   ├── 07_projek_v35.py
 │   └── README.md
 ├── projek/
 │   └── README.md
