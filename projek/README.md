@@ -20,6 +20,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 12 | Laporan bernombor menggunakan range | Siap (contoh: `Bab12/06_projek_v12.py`) |
 | 13 | Gred dan status menggunakan if/elif/else | Siap (contoh: `Bab13/09_projek_v13.py`) |
 | 14 | Status gred menggunakan match | Siap (contoh: `Bab14/06_projek_v14.py`) |
+| 15 | Menu berulang menggunakan while | Siap (contoh: `Bab15/07_projek_v15.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.
