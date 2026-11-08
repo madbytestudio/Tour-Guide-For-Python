@@ -76,7 +76,7 @@ python 01_hello.py
 | 37 | [`Bab37`](Bab37/) | Capstone: spesifikasi dan data model | Siap |
 | 38 | [`Bab38`](Bab38/) | Capstone: CRUD, carian dan laporan | Siap |
 | 39 | [`Bab39`](Bab39/) | Capstone: CLI, carta dan persistence | Siap |
-| ... | ... | ... | ... |
+| 40 | [`Bab40`](Bab40/) | Capstone: testing, packaging dan deployment | Siap |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
 ## Struktur projek
@@ -449,6 +449,14 @@ python 01_hello.py
 │   ├── 03_cli.py
 │   ├── 04_apa_output.py
 │   ├── 05_projek_v39.py
+│   └── README.md
+├── Bab40/
+│   ├── _app.py
+│   ├── _tests.py
+│   ├── 01_test.py
+│   ├── 02_package.py
+│   ├── 03_apa_output.py
+│   ├── 04_projek_v40.py
 │   └── README.md
 ├── projek/
 │   └── README.md
