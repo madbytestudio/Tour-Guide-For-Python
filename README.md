@@ -59,6 +59,7 @@ python 01_hello.py
 | 20 | [`Bab20`](Bab20/) | Modules, PIP dan virtual environment | Siap |
 | 21 | [`Bab21`](Bab21/) | Dates dan math | Siap |
 | 22 | [`Bab22`](Bab22/) | JSON dan regex | Siap |
+| 23 | [`Bab23`](Bab23/) | OOP dan classes/objects | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -285,6 +286,15 @@ python 01_hello.py
 │   ├── 04_regex_patterns.py
 │   ├── 05_apa_output.py
 │   ├── 06_projek_v22.py
+│   └── README.md
+├── Bab23/
+│   ├── 01_class.py
+│   ├── 02_object.py
+│   ├── 03_class_attr.py
+│   ├── 04_method.py
+│   ├── 05_isinstance.py
+│   ├── 06_apa_output.py
+│   ├── 07_projek_v23.py
 │   └── README.md
 ├── projek/
 │   └── README.md
