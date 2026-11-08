@@ -43,6 +43,7 @@ python 01_hello.py
 | 04 | [`Bab04`](Bab04/) | Data types, numbers dan casting | Siap |
 | 05 | [`Bab05`](Bab05/) | Strings dan pemprosesan teks | Siap |
 | 06 | [`Bab06`](Bab06/) | Booleans dan operators | Siap |
+| 07 | [`Bab07`](Bab07/) | User input, string formatting dan None | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -109,6 +110,17 @@ python 01_hello.py
 │   ├── 09_precedence.py
 │   ├── 10_apa_output.py
 │   ├── 11_projek_v6.py
+│   └── README.md
+├── Bab07/
+│   ├── 01_input.py
+│   ├── 02_input_nombor.py
+│   ├── 03_input_float.py
+│   ├── 04_format_spec.py
+│   ├── 05_none.py
+│   ├── 06_none_check.py
+│   ├── 07_apa_output.py
+│   ├── 08_input_ralat.py       # sengaja salah — ValueError
+│   ├── 09_projek_v7.py
 │   └── README.md
 ├── projek/
 │   └── README.md
