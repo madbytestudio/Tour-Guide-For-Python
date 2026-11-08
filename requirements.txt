@@ -1,0 +1,7 @@
+# Keperluan untuk kod contoh Tour Guide For Python.
+#
+# Bab 1 menggunakan standard library Python sahaja.
+# Tambah library di sini apabila bab berkaitan bermula, contohnya:
+# matplotlib==3.10.*
+# pandas==2.2.*
+# scikit-learn==1.6.*
