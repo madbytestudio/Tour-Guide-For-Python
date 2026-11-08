@@ -50,6 +50,7 @@ python 01_hello.py
 | 11 | [`Bab11`](Bab11/) | Dictionaries | Siap |
 | 12 | [`Bab12`](Bab12/) | Arrays, range dan iterators | Siap |
 | 13 | [`Bab13`](Bab13/) | If, elif dan else | Siap |
+| 14 | [`Bab14`](Bab14/) | Match | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -195,6 +196,14 @@ python 01_hello.py
 │   ├── 07_pass.py
 │   ├── 08_apa_output.py
 │   ├── 09_projek_v13.py
+│   └── README.md
+├── Bab14/
+│   ├── 01_match.py
+│   ├── 02_default.py
+│   ├── 03_combine.py
+│   ├── 04_menu.py
+│   ├── 05_apa_output.py
+│   ├── 06_projek_v14.py
 │   └── README.md
 ├── projek/
 │   └── README.md
