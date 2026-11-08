@@ -68,6 +68,7 @@ python 01_hello.py
 | 29 | [`Bab29`](Bab29/) | Try/except dan custom exceptions | Siap |
 | 30 | [`Bab30`](Bab30/) | Debugging dan testing | Siap |
 | 31 | [`Bab31`](Bab31/) | Matplotlib dan visualisasi data | Siap |
+| 32 | [`Bab32`](Bab32/) | NumPy dan Pandas | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -375,6 +376,15 @@ python 01_hello.py
 │   ├── 05_subplot.py
 │   ├── 06_apa_output.py
 │   ├── 07_projek_v31.py
+│   └── README.md
+├── Bab32/
+│   ├── 01_numpy.py
+│   ├── 02_series.py
+│   ├── 03_dataframe.py
+│   ├── 04_pandas_csv.py
+│   ├── 05_apa_output.py
+│   ├── 06_projek_v32.py
+│   ├── pelajar.csv
 │   └── README.md
 ├── projek/
 │   └── README.md
