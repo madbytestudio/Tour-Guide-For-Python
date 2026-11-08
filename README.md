@@ -66,6 +66,7 @@ python 01_hello.py
 | 27 | [`Bab27`](Bab27/) | Inner classes dan refactor projek | Siap |
 | 28 | [`Bab28`](Bab28/) | File handling dan CSV | Siap |
 | 29 | [`Bab29`](Bab29/) | Try/except dan custom exceptions | Siap |
+| 30 | [`Bab30`](Bab30/) | Debugging dan testing | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -356,6 +357,14 @@ python 01_hello.py
 │   ├── 05_custom_exception.py
 │   ├── 06_apa_output.py
 │   ├── 07_projek_v29.py
+│   └── README.md
+├── Bab30/
+│   ├── 01_print_debug.py
+│   ├── 02_assert.py
+│   ├── 03_test_ringkas.py
+│   ├── 04_bug.py             # sengaja salah — AssertionError
+│   ├── 05_apa_output.py
+│   ├── 06_projek_v30.py
 │   └── README.md
 ├── projek/
 │   └── README.md

@@ -35,6 +35,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 27 | SistemAnalisis berasaskan class | Siap (contoh: `Bab27/05_projek_v27.py`) |
 | 28 | Simpan dan baca data pelajar melalui CSV | Siap (contoh: `Bab28/09_projek_v28.py`) |
 | 29 | Validasi markah dengan custom exception | Siap (contoh: `Bab29/07_projek_v29.py`) |
+| 30 | Test purata dan gred | Siap (contoh: `Bab30/06_projek_v30.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.
