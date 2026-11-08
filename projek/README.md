@@ -23,6 +23,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 15 | Menu berulang menggunakan while | Siap (contoh: `Bab15/07_projek_v15.py`) |
 | 16 | Laporan kelas, jumlah dan purata menggunakan for | Siap (contoh: `Bab16/07_projek_v16.py`) |
 | 17 | Function analisis untuk purata dan gred | Siap (contoh: `Bab17/08_projek_v17.py`) |
+| 18 | Profil fleksibel dengan args/kwargs | Siap (contoh: `Bab18/08_projek_v18.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.
