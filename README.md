@@ -47,6 +47,7 @@ python 01_hello.py
 | 08 | [`Bab08`](Bab08/) | Lists | Siap |
 | 09 | [`Bab09`](Bab09/) | Tuples | Siap |
 | 10 | [`Bab10`](Bab10/) | Sets | Siap |
+| 11 | [`Bab11`](Bab11/) | Dictionaries | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -160,6 +161,19 @@ python 01_hello.py
 │   ├── 07_methods.py
 │   ├── 08_apa_output.py
 │   ├── 09_projek_v10.py
+│   └── README.md
+├── Bab11/
+│   ├── 01_dict.py
+│   ├── 02_access.py
+│   ├── 03_change.py
+│   ├── 04_add.py
+│   ├── 05_remove.py
+│   ├── 06_loop.py
+│   ├── 07_copy.py
+│   ├── 08_nested.py
+│   ├── 09_methods.py
+│   ├── 10_apa_output.py
+│   ├── 11_projek_v11.py
 │   └── README.md
 ├── projek/
 │   └── README.md
