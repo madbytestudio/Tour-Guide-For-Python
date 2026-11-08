@@ -44,6 +44,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 36 | Ramalan lulus/gagal menggunakan decision tree | Siap (contoh: `Bab36/07_projek_v36.py`) |
 | 37 | Spesifikasi, arkitektur dan data model final | Siap (contoh: `Bab37/04_projek_v37.py`) |
 | 38 | CRUD, carian dan laporan penuh | Siap (contoh: `Bab38/04_projek_v38.py`) |
+| 39 | CLI, carta dan persistence JSON | Siap (contoh: `Bab39/05_projek_v39.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.

@@ -75,6 +75,7 @@ python 01_hello.py
 | 36 | [`Bab36`](Bab36/) | Machine learning | Siap |
 | 37 | [`Bab37`](Bab37/) | Capstone: spesifikasi dan data model | Siap |
 | 38 | [`Bab38`](Bab38/) | Capstone: CRUD, carian dan laporan | Siap |
+| 39 | [`Bab39`](Bab39/) | Capstone: CLI, carta dan persistence | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -440,6 +441,14 @@ python 01_hello.py
 │   ├── 02_report.py
 │   ├── 03_apa_output.py
 │   ├── 04_projek_v38.py
+│   └── README.md
+├── Bab39/
+│   ├── _app.py
+│   ├── 01_persistence.py
+│   ├── 02_chart.py
+│   ├── 03_cli.py
+│   ├── 04_apa_output.py
+│   ├── 05_projek_v39.py
 │   └── README.md
 ├── projek/
 │   └── README.md
