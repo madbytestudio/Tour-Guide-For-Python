@@ -1,7 +1,9 @@
 # Keperluan untuk kod contoh Tour Guide For Python.
-#
-# Bab 1 menggunakan standard library Python sahaja.
-# Tambah library di sini apabila bab berkaitan bermula, contohnya:
-# matplotlib==3.10.*
-# pandas==2.2.*
-# scikit-learn==1.6.*
+# Versi disahkan pada Python 3.12.10 (Windows 11), 8 November 2026.
+
+numpy==2.5.4
+matplotlib==3.11.2
+pandas==3.1.1
+scikit-learn==1.9.1
+mysql-connector-python==26.10.0
+pymongo==4.19.0
