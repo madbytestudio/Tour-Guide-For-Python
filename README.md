@@ -48,6 +48,7 @@ python 01_hello.py
 | 09 | [`Bab09`](Bab09/) | Tuples | Siap |
 | 10 | [`Bab10`](Bab10/) | Sets | Siap |
 | 11 | [`Bab11`](Bab11/) | Dictionaries | Siap |
+| 12 | [`Bab12`](Bab12/) | Arrays, range dan iterators | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -174,6 +175,14 @@ python 01_hello.py
 │   ├── 09_methods.py
 │   ├── 10_apa_output.py
 │   ├── 11_projek_v11.py
+│   └── README.md
+├── Bab12/
+│   ├── 01_arrays.py
+│   ├── 02_range.py
+│   ├── 03_iterators.py
+│   ├── 04_apa_output.py
+│   ├── 05_iter_ralat.py       # sengaja salah — StopIteration
+│   ├── 06_projek_v12.py
 │   └── README.md
 ├── projek/
 │   └── README.md
