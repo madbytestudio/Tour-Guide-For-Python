@@ -42,6 +42,7 @@ python 01_hello.py
 | 03 | [`Bab03`](Bab03/) | Variables dan pengurusan nilai | Siap |
 | 04 | [`Bab04`](Bab04/) | Data types, numbers dan casting | Siap |
 | 05 | [`Bab05`](Bab05/) | Strings dan pemprosesan teks | Siap |
+| 06 | [`Bab06`](Bab06/) | Booleans dan operators | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -95,6 +96,19 @@ python 01_hello.py
 │   ├── 07_methods.py
 │   ├── 08_apa_output.py
 │   ├── 09_projek_v5.py
+│   └── README.md
+├── Bab06/
+│   ├── 01_booleans.py
+│   ├── 02_arithmetic.py
+│   ├── 03_assignment.py
+│   ├── 04_comparison.py
+│   ├── 05_logical.py
+│   ├── 06_identity_membership.py
+│   ├── 07_ternary.py
+│   ├── 08_bitwise.py
+│   ├── 09_precedence.py
+│   ├── 10_apa_output.py
+│   ├── 11_projek_v6.py
 │   └── README.md
 ├── projek/
 │   └── README.md
