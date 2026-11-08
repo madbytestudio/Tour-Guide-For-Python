@@ -49,6 +49,7 @@ python 01_hello.py
 | 10 | [`Bab10`](Bab10/) | Sets | Siap |
 | 11 | [`Bab11`](Bab11/) | Dictionaries | Siap |
 | 12 | [`Bab12`](Bab12/) | Arrays, range dan iterators | Siap |
+| 13 | [`Bab13`](Bab13/) | If, elif dan else | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -183,6 +184,17 @@ python 01_hello.py
 │   ├── 04_apa_output.py
 │   ├── 05_iter_ralat.py       # sengaja salah — StopIteration
 │   ├── 06_projek_v12.py
+│   └── README.md
+├── Bab13/
+│   ├── 01_if.py
+│   ├── 02_if_else.py
+│   ├── 03_elif.py
+│   ├── 04_shorthand.py
+│   ├── 05_logical.py
+│   ├── 06_nested.py
+│   ├── 07_pass.py
+│   ├── 08_apa_output.py
+│   ├── 09_projek_v13.py
 │   └── README.md
 ├── projek/
 │   └── README.md
