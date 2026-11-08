@@ -53,6 +53,7 @@ python 01_hello.py
 | 14 | [`Bab14`](Bab14/) | Match | Siap |
 | 15 | [`Bab15`](Bab15/) | While loops | Siap |
 | 16 | [`Bab16`](Bab16/) | For loops | Siap |
+| 17 | [`Bab17`](Bab17/) | Functions dan arguments | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -224,6 +225,16 @@ python 01_hello.py
 │   ├── 05_nested.py
 │   ├── 06_apa_output.py
 │   ├── 07_projek_v16.py
+│   └── README.md
+├── Bab17/
+│   ├── 01_function.py
+│   ├── 02_arguments.py
+│   ├── 03_return.py
+│   ├── 04_default.py
+│   ├── 05_keyword.py
+│   ├── 06_no_return.py
+│   ├── 07_apa_output.py
+│   ├── 08_projek_v17.py
 │   └── README.md
 ├── projek/
 │   └── README.md
