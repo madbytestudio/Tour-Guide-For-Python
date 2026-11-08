@@ -46,6 +46,7 @@ python 01_hello.py
 | 07 | [`Bab07`](Bab07/) | User input, string formatting dan None | Siap |
 | 08 | [`Bab08`](Bab08/) | Lists | Siap |
 | 09 | [`Bab09`](Bab09/) | Tuples | Siap |
+| 10 | [`Bab10`](Bab10/) | Sets | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -148,6 +149,17 @@ python 01_hello.py
 │   ├── 07_methods.py
 │   ├── 08_apa_output.py
 │   ├── 09_projek_v9.py
+│   └── README.md
+├── Bab10/
+│   ├── 01_sets.py
+│   ├── 02_access.py
+│   ├── 03_add.py
+│   ├── 04_remove.py
+│   ├── 05_join.py
+│   ├── 06_frozenset.py
+│   ├── 07_methods.py
+│   ├── 08_apa_output.py
+│   ├── 09_projek_v10.py
 │   └── README.md
 ├── projek/
 │   └── README.md
