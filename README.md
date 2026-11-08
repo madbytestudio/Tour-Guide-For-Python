@@ -64,6 +64,7 @@ python 01_hello.py
 | 25 | [`Bab25`](Bab25/) | Class methods dan magic methods | Siap |
 | 26 | [`Bab26`](Bab26/) | Inheritance, polymorphism dan encapsulation | Siap |
 | 27 | [`Bab27`](Bab27/) | Inner classes dan refactor projek | Siap |
+| 28 | [`Bab28`](Bab28/) | File handling dan CSV | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -332,6 +333,19 @@ python 01_hello.py
 │   ├── 03_refactor.py
 │   ├── 04_apa_output.py
 │   ├── 05_projek_v27.py
+│   └── README.md
+├── Bab28/
+│   ├── 01_write.py
+│   ├── 02_read.py
+│   ├── 03_read_lines.py
+│   ├── 04_append.py
+│   ├── 05_csv_write.py
+│   ├── 06_csv_read.py
+│   ├── 07_delete.py
+│   ├── 08_apa_output.py
+│   ├── 09_projek_v28.py
+│   ├── data_contoh.txt
+│   ├── pelajar.csv
 │   └── README.md
 ├── projek/
 │   └── README.md

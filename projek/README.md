@@ -33,6 +33,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 25 | Koleksi pelajar dengan magic methods | Siap (contoh: `Bab25/07_projek_v25.py`) |
 | 26 | Hierarki pelajar biasa dan pelajar biasiswa | Siap (contoh: `Bab26/06_projek_v26.py`) |
 | 27 | SistemAnalisis berasaskan class | Siap (contoh: `Bab27/05_projek_v27.py`) |
+| 28 | Simpan dan baca data pelajar melalui CSV | Siap (contoh: `Bab28/09_projek_v28.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.
