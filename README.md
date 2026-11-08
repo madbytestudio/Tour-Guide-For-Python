@@ -41,6 +41,7 @@ python 01_hello.py
 | 02 | [`Bab02`](Bab02/) | Sintaks, output dan comments | Siap |
 | 03 | [`Bab03`](Bab03/) | Variables dan pengurusan nilai | Siap |
 | 04 | [`Bab04`](Bab04/) | Data types, numbers dan casting | Siap |
+| 05 | [`Bab05`](Bab05/) | Strings dan pemprosesan teks | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -83,6 +84,17 @@ python 01_hello.py
 │   ├── 05_cast_betul.py
 │   ├── 06_apa_output.py
 │   ├── 07_projek_v4.py
+│   └── README.md
+├── Bab05/
+│   ├── 01_strings.py
+│   ├── 02_slicing.py
+│   ├── 03_modify.py
+│   ├── 04_concat.py
+│   ├── 05_format.py
+│   ├── 06_escape.py
+│   ├── 07_methods.py
+│   ├── 08_apa_output.py
+│   ├── 09_projek_v5.py
 │   └── README.md
 ├── projek/
 │   └── README.md
