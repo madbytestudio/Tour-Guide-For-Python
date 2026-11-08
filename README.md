@@ -45,6 +45,7 @@ python 01_hello.py
 | 06 | [`Bab06`](Bab06/) | Booleans dan operators | Siap |
 | 07 | [`Bab07`](Bab07/) | User input, string formatting dan None | Siap |
 | 08 | [`Bab08`](Bab08/) | Lists | Siap |
+| 09 | [`Bab09`](Bab09/) | Tuples | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -136,6 +137,17 @@ python 01_hello.py
 │   ├── 10_join.py
 │   ├── 11_apa_output.py
 │   ├── 12_projek_v8.py
+│   └── README.md
+├── Bab09/
+│   ├── 01_tuples.py
+│   ├── 02_access.py
+│   ├── 03_update.py
+│   ├── 04_unpack.py
+│   ├── 05_loop.py
+│   ├── 06_join.py
+│   ├── 07_methods.py
+│   ├── 08_apa_output.py
+│   ├── 09_projek_v9.py
 │   └── README.md
 ├── projek/
 │   └── README.md

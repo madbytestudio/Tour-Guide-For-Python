@@ -14,6 +14,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 06 | Kira jumlah, purata, peratus dan status lulus | Siap (contoh: `Bab06/11_projek_v6.py`) |
 | 07 | Input pelajar dan laporan berformat | Siap (contoh: `Bab07/09_projek_v7.py`) |
 | 08 | Senarai pelajar menggunakan list selari | Siap (contoh: `Bab08/12_projek_v8.py`) |
+| 09 | Rekod kursus tetap menggunakan tuple | Siap (contoh: `Bab09/09_projek_v9.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.
