@@ -27,6 +27,7 @@ Setiap milestone akan ditambah mengikut bab:
 | 19 | Log decorator dan laporan generator | Siap (contoh: `Bab19/07_projek_v19.py`) |
 | 20 | Modul analisis berasingan | Siap (contoh: `Bab20/_projek_modul.py`, `Bab20/06_projek_v20.py`) |
 | 21 | Laporan bertarikh dan pembundaran | Siap (contoh: `Bab21/06_projek_v21.py`) |
+| 22 | JSON pelajar dan validasi kod kursus | Siap (contoh: `Bab22/06_projek_v22.py`) |
 | ... | ... | ... |
 
 Buat masa ini, kod milestone awal boleh dilihat dalam folder `Bab01`.

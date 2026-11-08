@@ -58,6 +58,7 @@ python 01_hello.py
 | 19 | [`Bab19`](Bab19/) | Recursion, generators dan decorators | Siap |
 | 20 | [`Bab20`](Bab20/) | Modules, PIP dan virtual environment | Siap |
 | 21 | [`Bab21`](Bab21/) | Dates dan math | Siap |
+| 22 | [`Bab22`](Bab22/) | JSON dan regex | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -276,6 +277,14 @@ python 01_hello.py
 │   ├── 04_round.py
 │   ├── 05_apa_output.py
 │   ├── 06_projek_v21.py
+│   └── README.md
+├── Bab22/
+│   ├── 01_json.py
+│   ├── 02_json_types.py
+│   ├── 03_regex.py
+│   ├── 04_regex_patterns.py
+│   ├── 05_apa_output.py
+│   ├── 06_projek_v22.py
 │   └── README.md
 ├── projek/
 │   └── README.md
