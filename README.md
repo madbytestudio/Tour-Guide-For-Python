@@ -63,6 +63,7 @@ python 01_hello.py
 | 24 | [`Bab24`](Bab24/) | init, self, properties dan methods | Siap |
 | 25 | [`Bab25`](Bab25/) | Class methods dan magic methods | Siap |
 | 26 | [`Bab26`](Bab26/) | Inheritance, polymorphism dan encapsulation | Siap |
+| 27 | [`Bab27`](Bab27/) | Inner classes dan refactor projek | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -324,6 +325,13 @@ python 01_hello.py
 │   ├── 04_encapsulation.py
 │   ├── 05_apa_output.py
 │   ├── 06_projek_v26.py
+│   └── README.md
+├── Bab27/
+│   ├── 01_inner.py
+│   ├── 02_inner_instance.py
+│   ├── 03_refactor.py
+│   ├── 04_apa_output.py
+│   ├── 05_projek_v27.py
 │   └── README.md
 ├── projek/
 │   └── README.md
