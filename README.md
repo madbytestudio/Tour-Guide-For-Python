@@ -38,7 +38,7 @@ python 01_hello.py
 | Bab | Folder | Topik | Status |
 |---:|---|---|---|
 | 01 | [`Bab01`](Bab01/) | Pengenalan Python dan persediaan | Siap |
-| 02 | `Bab02` | Sintaks, output dan comments | Akan datang |
+| 02 | [`Bab02`](Bab02/) | Sintaks, output dan comments | Siap |
 | 03 | `Bab03` | Variables | Akan datang |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
@@ -54,6 +54,15 @@ python 01_hello.py
 │   ├── 04_ralat_salah_eja.py   # sengaja salah — untuk latihan debugging
 │   ├── 05_betulkan.py
 │   ├── 06_output.py
+│   └── README.md
+├── Bab02/
+│   ├── 01_statements.py
+│   ├── 02_output.py
+│   ├── 03_comments.py
+│   ├── 04_indent_ralat.py      # sengaja salah — IndentationError
+│   ├── 05_indent_betul.py
+│   ├── 06_apa_output.py
+│   ├── 07_banner_v2.py
 │   └── README.md
 ├── projek/
 │   └── README.md

@@ -1,0 +1,5 @@
+print("A", "B")
+print("A", "B", sep="")
+print("A", "B", sep="|")
+print("Satu", end=" ")
+print("Dua")

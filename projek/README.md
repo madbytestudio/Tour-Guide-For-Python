@@ -7,7 +7,7 @@ Setiap milestone akan ditambah mengikut bab:
 | Bab | Milestone | Status |
 |---:|---|---|
 | 01 | Banner sistem v0.1 | Siap (contoh: `Bab01/02_sistem.py`) |
-| 02 | Output dan comments yang lebih kemas | Akan datang |
+| 02 | Banner sistem v0.2 dengan comment dan `sep` | Siap (contoh: `Bab02/07_banner_v2.py`) |
 | 03 | Simpan rekod pelajar pertama | Akan datang |
 | ... | ... | ... |
 
