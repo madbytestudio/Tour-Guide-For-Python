@@ -39,7 +39,7 @@ python 01_hello.py
 |---:|---|---|---|
 | 01 | [`Bab01`](Bab01/) | Pengenalan Python dan persediaan | Siap |
 | 02 | [`Bab02`](Bab02/) | Sintaks, output dan comments | Siap |
-| 03 | `Bab03` | Variables | Akan datang |
+| 03 | [`Bab03`](Bab03/) | Variables dan pengurusan nilai | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -63,6 +63,16 @@ python 01_hello.py
 │   ├── 05_indent_betul.py
 │   ├── 06_apa_output.py
 │   ├── 07_banner_v2.py
+│   └── README.md
+├── Bab03/
+│   ├── 01_variables.py
+│   ├── 02_naming.py
+│   ├── 03_nama_salah.py        # sengaja salah — SyntaxError
+│   ├── 04_multiple.py
+│   ├── 05_output.py
+│   ├── 06_global.py
+│   ├── 07_apa_output.py
+│   ├── 08_banner_v3.py
 │   └── README.md
 ├── projek/
 │   └── README.md
