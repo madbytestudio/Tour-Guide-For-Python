@@ -44,6 +44,7 @@ python 01_hello.py
 | 05 | [`Bab05`](Bab05/) | Strings dan pemprosesan teks | Siap |
 | 06 | [`Bab06`](Bab06/) | Booleans dan operators | Siap |
 | 07 | [`Bab07`](Bab07/) | User input, string formatting dan None | Siap |
+| 08 | [`Bab08`](Bab08/) | Lists | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -121,6 +122,20 @@ python 01_hello.py
 │   ├── 07_apa_output.py
 │   ├── 08_input_ralat.py       # sengaja salah — ValueError
 │   ├── 09_projek_v7.py
+│   └── README.md
+├── Bab08/
+│   ├── 01_lists.py
+│   ├── 02_access.py
+│   ├── 03_change.py
+│   ├── 04_add.py
+│   ├── 05_remove.py
+│   ├── 06_loop.py
+│   ├── 07_comprehension.py
+│   ├── 08_sort.py
+│   ├── 09_copy.py
+│   ├── 10_join.py
+│   ├── 11_apa_output.py
+│   ├── 12_projek_v8.py
 │   └── README.md
 ├── projek/
 │   └── README.md
