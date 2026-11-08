@@ -40,6 +40,7 @@ python 01_hello.py
 | 01 | [`Bab01`](Bab01/) | Pengenalan Python dan persediaan | Siap |
 | 02 | [`Bab02`](Bab02/) | Sintaks, output dan comments | Siap |
 | 03 | [`Bab03`](Bab03/) | Variables dan pengurusan nilai | Siap |
+| 04 | [`Bab04`](Bab04/) | Data types, numbers dan casting | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -73,6 +74,15 @@ python 01_hello.py
 │   ├── 06_global.py
 │   ├── 07_apa_output.py
 │   ├── 08_banner_v3.py
+│   └── README.md
+├── Bab04/
+│   ├── 01_types.py
+│   ├── 02_numbers.py
+│   ├── 03_casting.py
+│   ├── 04_cast_error.py        # sengaja salah — ValueError
+│   ├── 05_cast_betul.py
+│   ├── 06_apa_output.py
+│   ├── 07_projek_v4.py
 │   └── README.md
 ├── projek/
 │   └── README.md
