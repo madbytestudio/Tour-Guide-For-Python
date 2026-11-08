@@ -60,6 +60,7 @@ python 01_hello.py
 | 21 | [`Bab21`](Bab21/) | Dates dan math | Siap |
 | 22 | [`Bab22`](Bab22/) | JSON dan regex | Siap |
 | 23 | [`Bab23`](Bab23/) | OOP dan classes/objects | Siap |
+| 24 | [`Bab24`](Bab24/) | init, self, properties dan methods | Siap |
 | ... | ... | ... | ... |
 | 40 | `Bab40` | Capstone: testing, packaging, deployment | Akan datang |
 
@@ -295,6 +296,15 @@ python 01_hello.py
 │   ├── 05_isinstance.py
 │   ├── 06_apa_output.py
 │   ├── 07_projek_v23.py
+│   └── README.md
+├── Bab24/
+│   ├── 01_init.py
+│   ├── 02_self.py
+│   ├── 03_properties.py
+│   ├── 04_methods.py
+│   ├── 05_default.py
+│   ├── 06_apa_output.py
+│   ├── 07_projek_v24.py
 │   └── README.md
 ├── projek/
 │   └── README.md
